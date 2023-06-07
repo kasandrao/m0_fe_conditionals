@@ -40,12 +40,12 @@ console.log("is numberStudents greater than or equal to 21?", numberStudents > 2
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Explain.
+// YOU DO: This code will compare the variables 'friends' and 'siblings.' Specifically, it will use comparison operators to determine if the variable 'friends' is greater than the variable 'siblings.' It will evaluate to true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// YOU DO: Explain.
+// YOU DO: This code will compare the variables 'attendees' and 'meals,' using comparsion operators to evaluate whether attendees does not equal meals. It will evaluate to true.
 
 
 // #-------------------
